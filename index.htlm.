@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -231,3 +230,4 @@ function renderStock() {
 
 </body>
 </html>
+
